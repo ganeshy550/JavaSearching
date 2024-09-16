@@ -12,7 +12,7 @@ Lets Start with them
 
 .................
 
-[About the Author](#)  
+[About the Author](https://github.com/ganeshy550/About-Author/blob/main/README.md)  
 [About the Course](#)  
 
 [Basics of Programming](#)  
