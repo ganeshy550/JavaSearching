@@ -12,7 +12,7 @@ Lets Start with them
 
 .................
 
-About the Author
+[About the Author]()
   [About the Course](https://www.youtube.com/watch?v=uvTcd-VlM64)
   
 
