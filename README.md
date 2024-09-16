@@ -13,7 +13,7 @@ Lets Start with them
 .................
 
 About the Author
-  [About the Course]{}
+  [About the Course]{https://mail.google.com/mail/u/0/?tab=rm&ogbl#inbox/FMfcgzQXJGlgmzgHKLxMvQBjNfzWhMhT}
   Basics of Progamming 
   What is Java
     1. Basic understanding of Java
