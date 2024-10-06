@@ -87,7 +87,7 @@ Lets Start with them
 7. [TestNG](#)  
 
 
-## LEET CODE SOLUTIONS [Click here](#)
+## SQL Course & Leet Code Solutions [Click here](#)
 
 
 .................................
