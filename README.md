@@ -87,8 +87,8 @@ Lets Start with them
 7. [TestNG](#)  
 
 
-SQL Course & Leet Code Solutions [Click here](https://github.com/ganeshy550/SQL_50_LEETCODE/tree/main)
-Python Course [Click here](#)
+SQL Course & Leet Code Solutions [Click here](https://github.com/ganeshy550/SQL_50_LEETCODE/tree/main) <br>
+Python Course [Click here](#) <br>
 DBMS Course [Click here](#)
 
 
